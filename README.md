@@ -25,9 +25,7 @@ Asset Available [Here](https://assetstore.unity.com/packages/tools/integration/c
 |---|---|
 |<img src="https://github.com/dilmerv/XRCoreInteractions/blob/master/docs/images/Demo_1.gif" width="300">|<img src="https://github.com/dilmerv/XRCoreInteractions/blob/master/docs/images/Demo_2.gif" width="300">
 |<img src="https://github.com/dilmerv/XRCoreInteractions/blob/master/docs/images/Demo_3.gif" width="300">|<img src="https://github.com/dilmerv/XRCoreInteractions/blob/master/docs/images/Demo_4.gif" width="300">|
-|<img src="https://github.com/dilmerv/XRCoreInteractions/blob/master/docs/images/Demo_5.gif" width="300">|<img src="https://github.com/dilmerv/XRCoreInteractions/blob/master/docs/images/xrgui_2.gif" width="300">|
-|<img src="https://github.com/dilmerv/XRCoreInteractions/blob/master/docs/images/xrgrab_1.gif" width="300">|<img src="https://github.com/dilmerv/XRCoreInteractions/blob/master/docs/images/xrthrow_1.gif" width="300">|
-|<img src="https://github.com/dilmerv/XRCoreInteractions/blob/master/docs/images/xrgui_1.gif" width="300">|<img src="https://github.com/dilmerv/XRCoreInteractions/blob/master/docs/images/xrthrow_2.gif" width="300">|
+|<img src="https://github.com/dilmerv/XRCoreInteractions/blob/master/docs/images/Demo_5.gif" width="300">|<img src="https://github.com/dilmerv/XRCoreInteractions/blob/master/docs/images/Demo_6.gif" width="300">|
 
 Scenes:
 
