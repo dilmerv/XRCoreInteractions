@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Main.unity
+    guid: 31909822656884719a2d73ca02c4a1c2
+  - enabled: 1
+    path: Assets/Scenes/Depth Of Field.unity
+    guid: 9d38ec4f6f8724f3b986a07f5fd3e696
+  - enabled: 0
+    path: Assets/Scenes/Film Grain.unity
+    guid: 5bcadc7af748f4501b01c386244957aa
+  - enabled: 0
+    path: Assets/Scenes/Vignette.unity
+    guid: 3e2a0a7ba6b874f6d9111fbb2ee00772
+  m_configObjects:
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 36eafc7b8f4654aae85d1189f42d8e2d,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f9f1b9e97546d43ce8e1b359e49427d4,
+      type: 2}

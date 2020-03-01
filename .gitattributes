@@ -1,0 +1,4 @@
+CICADA_4096.psd filter=lfs diff=lfs merge=lfs -text
+Assets/Models/ARObject/Textures/cicada_shadow.psd filter=lfs diff=lfs merge=lfs -text
+Assets/Models/ARObject/Textures/CICADA_3072.psd filter=lfs diff=lfs merge=lfs -text
+Assets/Models/ARObject/Textures/CICADA_4096.psd filter=lfs diff=lfs merge=lfs -text
