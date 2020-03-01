@@ -15,6 +15,16 @@ Supported Interactions:
 * Rotation
 * Translation
 
+Features:
+
+* AR Session Manager to handle switching between image tracking and plane detection
+* In app image capture and preview
+* In app video capture and preview (However this would required the noted below)
+* Fully working UI implementation
+* Ability to restart AR plane detection and image tracker
+* Ability to share image targets 
+* Ability to share captured images 
+
 *Note*: This implementation provides image capture functionality in gameplay, video recording functionality has been commented out because you will need to buy the asset below if you want native iOS and Android video recording:
 
 Asset Available [Here](https://assetstore.unity.com/packages/tools/integration/cross-platform-replay-kit-record-every-play-133662?aid=1101l7LXo)
